@@ -8,12 +8,13 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>Click here and one day you can record!</p>
+        <h2>Fantastic Audio App</h2>
+        <p>One beautiful day you will find yourself <br /> recording your creative inspirations,<br /> and they will be grammatically corrected<br /> and read back to you!</p>
       </header>
       <main>
         <Record />
       </main>
-      <footer className="Footer">
+      <footer className="footer">
         <a
           className="App-link"
           href="https://github.com/Git-Hannah"

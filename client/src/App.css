@@ -25,7 +25,8 @@
 }
 
 .App-link {
-  color: #fb8d61;
+  color: #c01111;
+  text-decoration: none;
 }
 
 @keyframes App-logo-spin {
@@ -36,8 +37,11 @@
     transform: rotate(360deg);
   }
 }
-.Footer {
+.footer {
   background-color: #e6af16;
   min-height: 10vmin;
+  padding: 20px;
+  text-decoration-color: none;
+  
   
 }
