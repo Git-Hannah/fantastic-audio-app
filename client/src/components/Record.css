@@ -1,7 +1,24 @@
-.App-main {
+.record {
     background-color: #e6af1625;
-    min-height: 50vmin;
+    min-height: 60vmin;
+    display: flex;
     align-items: center;
     justify-content: center;
   }
-  
+
+.button {
+    
+        padding-left: 100px; 
+        padding-right: 100px; 
+        font-size: 18px; 
+        background-color: #e95151;
+        cursor: pointer;
+        border-radius: 12px;
+      
+}
+.button p {
+    text-decoration: solid;
+    font-weight: bold;
+    font-size: 40px;
+    color: #fff;
+}

@@ -21,7 +21,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: rgb(233, 81, 81);
+  color: #e95151;
 }
 
 .App-link {
@@ -39,4 +39,5 @@
 .Footer {
   background-color: #e6af16;
   min-height: 10vmin;
+  
 }
