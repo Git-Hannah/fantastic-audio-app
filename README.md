@@ -25,7 +25,7 @@ Question: Is the correcting process built in the API? If yes, how? And, is that 
 Question: Does the corrected audio output have to be the user's voice or does it have a saved voice recording that already is correct? (Like the app I know)
 
 ## Coding:
-Well, if I watch my watch I want to get starting with coding and will map out the steps, considering my level of expertise:
+Well, if I watch my watch I want to get started with coding and will map out the steps, considering my level of expertise:
 ### Approach:
 Frontend:	React\
 Backend:	NodeJS, ExpressJS
@@ -37,17 +37,17 @@ What I can't do (yet!): Build the speech correction function
 ### *
 So I go on and build the Frontend with $npx create-react-app\
 Then I create the Backend:\
-    • First I put all files in a new folder called 'client'
-    • Then run $mkdir server
-    • $npm init -y to create package.json
-    • $npm install express
-    • In client: $npm install axios to do http-requests to server
-    • In client: create components folder
-    • create Record.js component
-    • create Button to record audio
-    • Googled how to do that, found this on [Medium](https://medium.com/front-end-weekly/recording-audio-in-mp3-using-reactjs-under-5-minutes-5e960defaf10)
-tried it NOT
-    • Focused on what I can do in the remaining time which is styling css
+    • First I put all files in a new folder called 'client'\
+    • Then run $mkdir server\
+    • $npm init -y to create package.json\
+    • $npm install express\
+    • In client: $npm install axios to do http-requests to server\
+    • In client: create components folder\
+    • create Record.js component\
+    • create Button to record audio\
+    • Googled how to do that, found this on [Medium](https://medium.com/front-end-weekly/recording-audio-in-mp3-using-reactjs-under-5-minutes-5e960defaf10)\
+tried it NOT\
+    • Focused on what I can do in the remaining time which is styling css\
     • Todo: connect Frontend to Backend
 
 
