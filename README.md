@@ -35,13 +35,13 @@ What I can do: Build the page with style\
 What I can't do (yet!): Build the speech correction function
 
 ### *
-So I go on and build the Frontend with $npx create-react-app\
+So I go on and build the Frontend with `$npx create-react-app`\
 Then I create the Backend:\
     • First I put all files in a new folder called 'client'\
-    • Then run $mkdir server\
-    • $npm init -y to create package.json\
-    • $npm install express\
-    • In client: $npm install axios to do http-requests to server\
+    • Then run `$mkdir server`\
+    • `$npm init -y` to create package.json\
+    • `$npm install express`\
+    • In client: `$npm install axios` to do http-requests to server\
     • In client: create components folder\
     • create Record.js component\
     • create Button to record audio\
