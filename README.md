@@ -35,20 +35,23 @@ What I can do: Build the page with style\
 What I can't do (yet!): Build the speech correction function
 
 ### *
-So I go on and build the Frontend with `$ npx create-react-app`\
+So I go on and build the React-Frontend with `$ npx create-react-app`\
+Because React gives the ideal architecture for a SPA.\
+
 Then I create the Backend:\
     • First I put all files in a new folder called 'client'\
+        Because client and server run on different ports.
     • Then run `$mkdir server`\
-    • `$ npm init -y` to create package.json\
-    • `$ npm install express`\
+    • `$ npm init -y` to create package.json in the backend\
+    • `$ npm install express` which is the server\ 
     • In client: `$ npm install axios` to do http-requests to server\
-    • In client: create components folder\
-    • create Record.js component\
-    • create Button to record audio\
+    • In client: create components folder, to set up the organisation of the React components\
+    • create Record.js component which hosts the record button and leads to the recording functionality\
+    • create Button to record audio with the users' microphone and which will trigger the routes to the API\
     • Googled how to do that, found this on [Medium](https://medium.com/front-end-weekly/recording-audio-in-mp3-using-reactjs-under-5-minutes-5e960defaf10)\
-tried it NOT\
+tried it NOT, because will take long\
     • Focused on what I can do in the remaining time which is styling css\
-    • Todo: connect Frontend to Backend
+    • Todo: connect Frontend to Backend and to the API.
 
 ## To start the app:
 In the client folder run `$ npm start`
