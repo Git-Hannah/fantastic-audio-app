@@ -36,7 +36,7 @@ What I can't do (yet!): Build the speech correction function
 
 ### *
 So I go on and build the React-Frontend with `$ npx create-react-app`\
-Because React gives the ideal architecture for a SPA.\
+Because React gives the ideal architecture for a SPA.
 
 Then I create the Backend:\
     • First I put all files in a new folder called 'client'\
