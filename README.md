@@ -51,7 +51,7 @@ tried it NOT\
     • Todo: connect Frontend to Backend
 
 ## To start the app:
-In the client folder run `$ npm start`\
+In the client folder run `$ npm start`
 
 ## That was fun! 
 Even though I can't wait to actually code something like this for real, just to see what already exists is kinda mindblowing. And scary. !!!
