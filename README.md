@@ -35,13 +35,13 @@ What I can do: Build the page with style\
 What I can't do (yet!): Build the speech correction function
 
 ### *
-So I go on and build the Frontend with `$npx create-react-app`\
+So I go on and build the Frontend with `$ npx create-react-app`\
 Then I create the Backend:\
     • First I put all files in a new folder called 'client'\
     • Then run `$mkdir server`\
-    • `$npm init -y` to create package.json\
-    • `$npm install express`\
-    • In client: `$npm install axios` to do http-requests to server\
+    • `$ npm init -y` to create package.json\
+    • `$ npm install express`\
+    • In client: `$ npm install axios` to do http-requests to server\
     • In client: create components folder\
     • create Record.js component\
     • create Button to record audio\
@@ -50,6 +50,8 @@ tried it NOT\
     • Focused on what I can do in the remaining time which is styling css\
     • Todo: connect Frontend to Backend
 
+## To start the app:
+In the client folder run `$ npm start`\
 
 ## That was fun! 
 Even though I can't wait to actually code something like this for real, just to see what already exists is kinda mindblowing. And scary. !!!
